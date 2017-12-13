@@ -23,9 +23,9 @@ In consideration of the mutual promises and covenants contained herein, the part
     * Value to the program (determined by Director vote). 60%
 
 a) Total Mentor Pool is 30% of the total Warrants Issued to FA
-    
-    * FA Co-Directors Vote: 70%
-    * FA Founders Vote: 30%
+
+	* FA Co-Directors Vote: 70%
+	* FA Founders Vote: 30%
  
 b) Mentors will be rated by the Founders themselves in terms of a 0-5 scale, with criteria being: 	
 
