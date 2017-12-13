@@ -13,8 +13,7 @@ In consideration of the mutual promises and covenants contained herein, the part
    * Provide real and virtual office hours, including via email, to founders.
 
 
-2. Mentor Warrants Pool. 
-Mentors may participate in a shared warrants pool with other mentors, with allocation determined at the end of each class, to be determined by the FA Co-Directors and Founders and generally calculated based on a formula of:
+2. Mentor Warrants Pool. Mentors may participate in a shared warrants pool with other mentors, with allocation determined at the end of each class, to be determined by the FA Co-Directors and Founders and generally calculated based on a formula of:
 
     * Class ranking (determined by Founders themselves, and generally based upon helpfulness, resourcefulness, and availability to the class); 5%
     * Amount of time spent with office hours/email outside of class 5%
@@ -24,6 +23,7 @@ Mentors may participate in a shared warrants pool with other mentors, with alloc
     * Value to the program (determined by Director vote). 60%
 
 2.1 Total Mentor Pool is 30% of the total Warrants Issued to FA
+    
     * FA Co-Directors Vote: 70%
     * FA Founders Vote: 30%
  
