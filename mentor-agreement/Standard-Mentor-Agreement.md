@@ -22,12 +22,11 @@ In consideration of the mutual promises and covenants contained herein, the part
     * Attendance at demo day 10%
     * Value to the program (determined by Director vote). 60%
 
-a) Total Mentor Pool is 30% of the total Warrants Issued to FA
+   a) Total Mentor Pool is 30% of the total Warrants Issued to FA
+   * FA Co-Directors Vote: 70%
+   * FA Founders Vote: 30%
 
-	* FA Co-Directors Vote: 70%
-	* FA Founders Vote: 30%
- 
-b) Mentors will be rated by the Founders themselves in terms of a 0-5 scale, with criteria being: 	
+   b) Mentors will be rated by the Founders themselves in terms of a 0-5 scale, with criteria being: 	
 
    * Participation of the mentor in the class
    * Specialized  help given
@@ -48,7 +47,7 @@ b) Mentors will be rated by the Founders themselves in terms of a 0-5 scale, wit
 
 9. Remedies. Mentor acknowledges that compliance with Paragraphs 5 through 7 herein is necessary to protect FA's business and goodwill, that a breach of those Paragraphs may irreparably and continually damage FA; and that an award of money damages may not be adequate to remedy such harm. Consequently, Mentor agrees that:
 
-a) In the event Mentor breaches any of the above-referenced covenants, FA may be entitled to both: (1) a preliminary or permanent injunction in order to prevent ongoing harm; and (2) money damages, insofar as they can be determined, including, without limitation, all reasonable costs and attorneys' fees incurred by FA in enforcing the terms of this Agreement.
+   a) In the event Mentor breaches any of the above-referenced covenants, FA may be entitled to both: (1) a preliminary or permanent injunction in order to prevent ongoing harm; and (2) money damages, insofar as they can be determined, including, without limitation, all reasonable costs and attorneys' fees incurred by FA in enforcing the terms of this Agreement.
 
 10. Waiver of rights. If, in one or more instances, FA fails to insist that Mentor perform any terms of this Agreement, such failure shall not be construed as a waiver by FA of any past, present, or future right granted under this Agreement, and Mentor's obligations under this Agreement shall continue in full force and effect.
 
